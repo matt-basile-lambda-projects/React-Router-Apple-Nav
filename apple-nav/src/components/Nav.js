@@ -1,5 +1,5 @@
 import React from 'react';
-
+import {Link} from 'react-router-dom'
 
 class Nav extends React.Component{
     constructor(props){
@@ -14,9 +14,10 @@ class Nav extends React.Component{
         return(
             <div>
                 {devices.map(device =>{
-                    return <a className="device-link">{device.name}</a>
+                    return <Link className="device-link" to={`/${device.name}`}>{device.name}</Link>
                 })}
             </div>
+            
         )
     }
 }

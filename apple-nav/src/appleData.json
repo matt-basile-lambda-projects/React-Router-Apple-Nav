@@ -1,0 +1,87 @@
+{
+    "Devices":[
+        {
+            "name": "Mac",
+            "id": 0,
+            "types":[
+                "MacBook",
+                "MacBook Air",
+                "MacBook Pro",
+                "iMac",
+                "iMac Pro",
+                "Mac Pro",
+                "Mac mini",
+                "Accessories",
+                "Mojave",
+                "Compare"
+            ]
+        },
+        {
+            "name": "iPad",
+            "id": 1,
+            "types":[
+                "iPad Pro",
+                "iPad Pro 10.5",
+                "iPad",
+                "iPad mini 4",
+                "iOS 12",
+                "Apple Pen",
+                "Smart Keyboard",
+                "Accessories",
+                "Compare"
+            ]
+        },
+        {
+            "name": "iPhone",
+            "id": 2,
+            "types":[
+                "iPhone Xs",
+                "iPhone XR",
+                "iPhone 8",
+                "iPhone 7",
+                "iOS 12",
+                "Air Pods",
+                "Accessories",
+                "Compare"
+            ]
+        },
+        {
+            "name": "Watch",
+            "id": 3,
+            "types":[
+                "Apple Watch Series 4",
+                "Apple Watch Nike+",
+                "Apple Watch Hermes",
+                "Apple Watch Series 3",
+                "watchOS",
+                "Bands",
+                "Accessories",
+                "Compare"
+            ]
+        },
+        {
+            "name": "TV",
+            "id": 4,
+            "types":[
+                "Apple TV 4K",
+                "Apple TV",
+                "TV App",
+                "Accessories",
+                "Compare"
+            ]
+        },
+        {
+            "name": "Music",
+            "id": 5,
+            "types":[
+                "Apple Music",
+                "iTunes",
+                "HomePod",
+                "AirPods",
+                "iPod touch",
+                "Music Accessories",
+                "Gift Cards"
+            ]
+        }
+    ]
+}
